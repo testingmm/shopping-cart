@@ -1,0 +1,12 @@
+.qtyBtn {
+    width: 33px;
+}
+
+.form-control {
+    width: 40px;
+}
+
+.product-image {
+    height: 600px !important;
+    object-fit: contain;
+}
